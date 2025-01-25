@@ -1,6 +1,6 @@
 > ⚠ This about is still a work-in-progress, so expect some works 👷‍♂️ and some issues 🐛
 # Hello There!
-![Who I am](https://img.shields.io/badge/any_text-you_like-blue)]
+![Who I am](https://img.shields.io/badge/Who-I am-blue)
 Hello, I am Nethula Rankidu. I am currently a student at JIAT and a hobby developer. I am passionate about computers and linux (not using arch btw). I am proficient in HTML, CSS, JS, and PHP.
 
 <!--
