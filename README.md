@@ -6,7 +6,7 @@
 Hello, I am Nethula Rankidu. I am currently a student at JIAT and a hobby developer. I am passionate about computers and linux (not using arch btw). I am proficient in HTML, CSS, JS, and PHP.   
 
 # My Socials
-![Discord](https://img.shields.io/badge/%E2%80%8B-discord-blue?logo=discord)
+[![Discord](https://img.shields.io/badge/%E2%80%8B-discord-blue?logo=discord)](https://pastebin.com/0uCFZYPx) <br>
 
 <!--
 Here are some ideas to get you started:
