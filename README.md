@@ -3,7 +3,6 @@
 # Hello There!
 
 ![Who I am](https://img.shields.io/badge/Who-I_am-blue)   
-
 Hello, I am Nethula Rankidu. I am currently a student at JIAT and a hobby developer. I am passionate about computers and linux (not using arch btw). I am proficient in HTML, CSS, JS, and PHP.
 
 <!--
