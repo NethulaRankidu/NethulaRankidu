@@ -16,8 +16,8 @@ Hello, I am Nethula Rankidu. I am currently a student at JIAT and a hobby develo
 [![Steam](https://img.shields.io/badge/%E2%80%8B-Steam-white?logo=steam)](https://steamcommunity.com/profiles/76561199243295724) <br>
 
 # GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nethularankidu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[](https://github-readme-streak-stats.herokuapp.com/?user=nimash3eshan&theme=dark&hide_border=false)<br/>
+[![NethulaRankidu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nethularankidu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nethularankidu&theme=merko&hide_border=false)<br/>
 
 <!--
 Here are some ideas to get you started:
