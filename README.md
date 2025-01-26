@@ -33,6 +33,8 @@ Hello, I am Nethula Rankidu. I am currently a student at JIAT and a hobby develo
 
 [![osu!](https://img.shields.io/badge/%E2%80%8B-osu!-pink?logo=osu)](https://osu.ppy.sh/users/36432224)
 
+# Thank you for reading this `>_<` Have a good day `^_^`
+![](https://hit.yhype.me/github/profile?account_id=88810614)
 <!--
 Here are some ideas to get you started:
 
