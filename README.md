@@ -8,6 +8,8 @@ Hello, I am Nethula Rankidu. I am currently a student at JIAT and a hobby develo
 <!-- ## Profile Views
 ![](https://komarev.com/ghpvc/?username=nethularankidu&color=151515&style=plastic) -->  
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNethulaRankidu&count_bg=%23FA4986&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # My Socials
 
 [![Discord](https://img.shields.io/badge/%E2%80%8B-Discord-blue?logo=discord)](https://pastebin.com/0uCFZYPx)
