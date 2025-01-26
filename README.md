@@ -17,17 +17,17 @@ Hello, I am Nethula Rankidu. I am currently a student at JIAT and a hobby develo
 [![Spotify](https://img.shields.io/badge/%E2%80%8B-Spotify-1ED760?logo=spotify)](https://open.spotify.com/user/31sobltrpac4puipceq44v3xhajq)
 [![Steam](https://img.shields.io/badge/%E2%80%8B-Steam-white?logo=steam)](https://steamcommunity.com/profiles/76561199243295724) <br>
 
-# GitHub Stats
-
-[![NethulaRankidu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nethularankidu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NethulaRankidu&theme=dark&short_numbers=true)](https://git.io/streak-stats)<br/>
-
 # Computer Languages I know
 
 ![HTML](https://img.shields.io/badge/%E2%80%8B-HTML-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/%E2%80%8B-CSS-blue?logo=css3)
 ![JS](https://img.shields.io/badge/%E2%80%8B-JS-yellow?logo=javascript)
 ![PHP](https://img.shields.io/badge/%E2%80%8B-PHP-purple?logo=php)
+
+# GitHub Stats
+
+[![NethulaRankidu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nethularankidu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NethulaRankidu&theme=dark&short_numbers=true)](https://git.io/streak-stats)<br/>
 
 # Games I play
 
