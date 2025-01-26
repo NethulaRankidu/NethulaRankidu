@@ -21,6 +21,12 @@ Hello, I am Nethula Rankidu. I am currently a student at JIAT and a hobby develo
 [![NethulaRankidu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nethularankidu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NethulaRankidu&theme=dark&short_numbers=true)](https://git.io/streak-stats)<br/>
 
+# Computer Languages I know
+![HTML](https://img.shields.io/badge/%E2%80%8B-HTML-orange?logo=html)
+![CSS](https://img.shields.io/badge/%E2%80%8B-CSS-blue?logo=css)
+![JS](https://img.shields.io/badge/%E2%80%8B-PHP-yellow?logo=js)
+![PHP](https://img.shields.io/badge/%E2%80%8B-JS-purple?logo=php)
+
 <!--
 Here are some ideas to get you started:
 
