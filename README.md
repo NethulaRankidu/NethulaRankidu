@@ -11,7 +11,7 @@ Hello, I am Nethula Rankidu. I am currently a student at JIAT and a hobby develo
 # My Socials
 [![Discord](https://img.shields.io/badge/%E2%80%8B-Discord-blue?logo=discord)](https://pastebin.com/0uCFZYPx)
 [![Reddit](https://img.shields.io/badge/%E2%80%8B-Reddit-orange?logo=reddit)](https://www.reddit.com/u/Ahmchill)
-[![Spotify](https://img.shields.io/badge/%E2%80%8B-Spotify-green?logo=spotify)](https://open.spotify.com/user/31sobltrpac4puipceq44v3xhajq)
+[![Spotify](https://img.shields.io/badge/%E2%80%8B-Spotify-1ED760?logo=spotify)](https://open.spotify.com/user/31sobltrpac4puipceq44v3xhajq)
 [![Steam](https://img.shields.io/badge/%E2%80%8B-Steam-white?logo=steam)](https://steamcommunity.com/profiles/76561199243295724) <br>
 
 
