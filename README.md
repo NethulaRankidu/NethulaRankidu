@@ -24,8 +24,8 @@ Hello, I am Nethula Rankidu. I am currently a student at JIAT and a hobby develo
 # Computer Languages I know
 ![HTML](https://img.shields.io/badge/%E2%80%8B-HTML-orange?logo=html)
 ![CSS](https://img.shields.io/badge/%E2%80%8B-CSS-blue?logo=css)
-![JS](https://img.shields.io/badge/%E2%80%8B-PHP-yellow?logo=js)
-![PHP](https://img.shields.io/badge/%E2%80%8B-JS-purple?logo=php)
+![JS](https://img.shields.io/badge/%E2%80%8B-JS-yellow?logo=js)
+![PHP](https://img.shields.io/badge/%E2%80%8B-PHP-purple?logo=php)
 
 <!--
 Here are some ideas to get you started:
