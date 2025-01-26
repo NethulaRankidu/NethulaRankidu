@@ -9,9 +9,9 @@ Hello, I am Nethula Rankidu. I am currently a student at JIAT and a hobby develo
 ![](https://komarev.com/ghpvc/?username=nethularankidu&color=151515&style=plastic)  
 
 # My Socials
-[![Discord](https://img.shields.io/badge/%E2%80%8B-discord-blue?logo=discord)](https://pastebin.com/0uCFZYPx) <br>
-[![Reddit](https://img.shields.io/badge/%E2%80%8B-discord-blue?logo=reddit)](https://www.reddit.com/u/Ahmchill) <br>
-[![Spotify](https://img.shields.io/badge/%E2%80%8B-discord-blue?logo=spotify)](https://open.spotify.com/user/31sobltrpac4puipceq44v3xhajq) <br>
+[![Discord](https://img.shields.io/badge/%E2%80%8B-discord-blue?logo=discord)](https://pastebin.com/0uCFZYPx)
+[![Reddit](https://img.shields.io/badge/%E2%80%8B-discord-blue?logo=reddit)](https://www.reddit.com/u/Ahmchill)
+[![Spotify](https://img.shields.io/badge/%E2%80%8B-discord-blue?logo=spotify)](https://open.spotify.com/user/31sobltrpac4puipceq44v3xhajq)
 [![Steam](https://img.shields.io/badge/%E2%80%8B-discord-blue?logo=discord)](https://steamcommunity.com/profiles/76561199243295724) <br>
 
 
