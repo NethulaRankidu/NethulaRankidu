@@ -6,13 +6,13 @@
 Hello, I am Nethula Rankidu. I am currently a student at JIAT and a hobby developer. I am passionate about computers and linux (not using arch btw). I am proficient in HTML, CSS, JS, and PHP. <br>
 
 ## Profile Views
-![](https://komarev.com/ghpvc/?username=nethularankidu&color=151515&style=plastic)  
+<!-- ![](https://komarev.com/ghpvc/?username=nethularankidu&color=151515&style=plastic) -->  
 
 # My Socials
-[![Discord](https://img.shields.io/badge/%E2%80%8B-discord-blue?logo=discord)](https://pastebin.com/0uCFZYPx)
-[![Reddit](https://img.shields.io/badge/%E2%80%8B-discord-blue?logo=reddit)](https://www.reddit.com/u/Ahmchill)
-[![Spotify](https://img.shields.io/badge/%E2%80%8B-discord-blue?logo=spotify)](https://open.spotify.com/user/31sobltrpac4puipceq44v3xhajq)
-[![Steam](https://img.shields.io/badge/%E2%80%8B-discord-blue?logo=discord)](https://steamcommunity.com/profiles/76561199243295724) <br>
+[![Discord](https://img.shields.io/badge/%E2%80%8B-Discord-blue?logo=discord)](https://pastebin.com/0uCFZYPx)
+[![Reddit](https://img.shields.io/badge/%E2%80%8B-Reddit-blue?logo=reddit)](https://www.reddit.com/u/Ahmchill)
+[![Spotify](https://img.shields.io/badge/%E2%80%8B-Spotify-blue?logo=spotify)](https://open.spotify.com/user/31sobltrpac4puipceq44v3xhajq)
+[![Steam](https://img.shields.io/badge/%E2%80%8B-Steam-blue?logo=steam)](https://steamcommunity.com/profiles/76561199243295724) <br>
 
 
 <!--
