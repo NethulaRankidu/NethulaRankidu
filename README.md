@@ -1,14 +1,12 @@
-> ⚠ This about is still a work-in-progress, so expect some works 👷‍♂️ and some issues 🐛
+> ⚠ Last Updated: 2025-07-10
 
 # Hello There!
 
 ![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=979797&width=435&lines=Hi%2C+I'm+Nethula+Rankidu+%F0%9F%91%8B;I'm+from+Sri+Lanka+%F0%9F%98%83;Nice+to+meet+you+%F0%9F%98%8A)   
-Hello, I am Nethula Rankidu. I am currently a student at JIAT and a hobby developer. I am passionate about computers and linux (not using arch btw). I am proficient in HTML, CSS, JS, and PHP. <br>
+Hello, I am Nethula Rankidu. I am currently a student at JIAT and a hobby developer. I am passionate about computers and linux (currently Ubuntu, going to try fedora soon!). I am proficient in HTML, CSS, JS, Java and PHP. (Currently learning and doing projects with Java + MySQL)<br>
 
 <!-- ## Profile Views
 ![](https://komarev.com/ghpvc/?username=nethularankidu&color=151515&style=plastic) -->  
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNethulaRankidu&count_bg=%23FA4986&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # My Socials
 
